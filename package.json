@@ -1,4 +1,7 @@
 {
   "name": "subresource-integrity-test",
-  "version": "0.1.0"
+  "version": "0.1.4",
+  "dependencies": {
+    "react": "^18.1.0"
+  }
 }
